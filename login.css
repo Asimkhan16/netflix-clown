@@ -1,0 +1,65 @@
+section {
+	background-image: url(img/banner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	color: #fff;
+	text-align: center;
+	position: relative;
+}
+
+.form-heading {
+	text-align: left;
+	font-size: 35px;
+}
+
+.full-bg {
+	padding: 40px 15px;
+	background-color: rgba(0, 0, 0, .75);
+	width: 50vh;
+	margin: auto 34%;
+	border-radius: 20px;
+	position: absolute;
+	top: 150px;
+}
+
+#email {
+	padding: 25px 100px;
+	display: block;
+	margin-bottom: 40px;
+}
+
+#password {
+	padding: 25px 100px;
+}
+
+.singin {
+	padding: 25px 160px;
+	margin-top: 30px;
+	background-color: red;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.login-form {
+	display: inline-block;
+
+}
+
+.remer {
+	margin-right: 240px;
+	margin-top: 25px;
+	display: inline-block;
+	margin-right: 175px;
+}
+
+.hel {
+	display: inline-block;
+}
+
+.btn-sing {
+	text-decoration: none;
+	color: #fff;
+}
